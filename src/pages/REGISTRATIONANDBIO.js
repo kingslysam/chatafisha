@@ -83,7 +83,7 @@ const REGISTRATIONANDBIO = () => {
                     Contact
                 </div>
             </div>
-            <b className="absolute top-[62px] left-[165px] text-xl">CHATAFISHA</b>
+            <b className="absolute top-[62px] left-[165px] text-xl">CHATAFISHA </b>
             <img
                 className="absolute h-[3.4%] w-[2.78%] top-[7.45%] right-[77.69%] bottom-[89.15%] left-[23.53%] max-w-full overflow-hidden max-h-full"
                 alt=""
